@@ -1,0 +1,3 @@
+{
+    "mongooseURL": "mongodb+srv://admin:6h08izHqjKc34Mnd@cluster0.evii5.mongodb.net/gymdashboard?retryWrites=true&w=majority"
+}
